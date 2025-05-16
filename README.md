@@ -16,7 +16,7 @@ What’s Included
 
 - preprocessing.py: Full code for preprocessing and encoding the dataset.
 - training_xgboost.txt: A placeholder note explaining how to request access to the full training and evaluation script.
-- sample_outputs/: Folder for optional visuals such as confusion matrix or charts.
+- sample_outputs/: Folder for visuals such as confusion matrix or charts.
 
 Private Components
 
