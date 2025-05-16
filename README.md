@@ -26,7 +26,7 @@ How to Access the Full Code
 
 If you are interested in viewing the complete project (including training logic and full pipeline), you can request access by contacting the author.
 
-Contact Email: shreya.r@email.com
+Contact Email: shreyar0626@gmail.com
 
 Please mention your purpose clearly. Full access is only provided for academic or research use.
 
